@@ -11,7 +11,7 @@ namespace ASP_Voyage.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult DestinationList()
         {
             return View();
         }
